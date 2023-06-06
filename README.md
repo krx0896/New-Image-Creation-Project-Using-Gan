@@ -1,5 +1,5 @@
 # Project
-### GAN(Generative Adversarial Network)를 활용하여 자화상 만들기 프로젝트(아직 주제 수정중)
+### 스케치 이미지를 초상화 이미지로 변환하는 인공지능: cGAN 과 U-Net 아키텍처 활용
 
 # Intro 
 ### 🗓️ Date 
