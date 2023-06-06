@@ -57,7 +57,7 @@ Presentation Date : 2023.06.07 </br>
  
 <마지막에서 학습된 결과 이미지>
 
--	Residual Connections레이어 추가한 모델의 결과 이미지는 Fig6의 Conv2d레이어 만 있는 모델보다 생성된 사진이 단조로운 것을 볼 수 있음
+-	Residual Connections레이어 추가한 모델의 결과 이미지는 위의 Conv2d레이어 만 있는 모델보다 생성된 사진이 단조로운 것을 볼 수 있음
  
 <img src="./Image/Residual Connections레이어 모델의 마지막 결과.png" width="500px">
  
