@@ -71,8 +71,10 @@ Presentation Date : 2023.06.07 </br>
 ## 4. References
 데이터셋</br>
 - Flickr, Portrait bldigital dataset, https://www.kaggle.com/datasets/kairess/edges2portrait 
+
 </br>참고  논문
 - Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
+
 </br>참고자료
 - TensorFlow, “pix2pix: 조건부  GAN 을  사용한  이미지  대  이미지 변환”, https://www.tensorflow.org/tutorials/generative/pix2pix?hl=ko
 - 동빈나, “Image-to-Image Translation with Conditional Adversarial Networks [꼼꼼한  딥러닝  논문 리뷰와  코드 실습]”, https://www.youtube.com/watch?v=ImiD4npRj7k
