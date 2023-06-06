@@ -71,7 +71,7 @@ Presentation Date : 2023.06.07 </br>
 
 -	직접 그린 스케치 이미지 모델에 넣고 생성한 결과 자연스럽지는 않지만 준수한 초상화 이미지를 생성함
 
-<img src="./Image/직접 그린 스케치 이미지 Generator로 이미지 생성.png" width="500px">
+<img src="./Image/직접 그린 스케치 이미지 Generator로 이미지 생성.png" width="300px">
 
 <직접 그린 스케치 이미지를 모델에 넣고 이미지를 생성하여 확인>
 
