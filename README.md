@@ -41,32 +41,32 @@ Presentation Date : 2023.06.07 </br>
  
 -	처음 학습된 결과 이미지를 보면 아직 특징을 추출하지 못하여 생성된 이미지가 자연스럽지 못함
  
-<img src="./Image/일반 모델의 초기 학습 결과.png" width="600px">
+<img src="./Image/일반 모델의 초기 학습 결과.png" width="500px">
  
 <제일 처음 학습된 결과 이미지>
 -	중간 과정에서 학습된 결과 이미지를 보면 생성된 이미지는 비슷하지만 스케치 형태를 잘 반영한 것을 볼 수 있음
  
-<img src="./Image/일반 모델의 중기 학습 결과.png">
+<img src="./Image/일반 모델의 중기 학습 결과.png" width="500px">
  
 <중간 과정에서 학습된 결과 이미지>
 -	마지막에서 학습된 결과 이미지를 보면 생성된 이미지와 실제 이미지와 많이 흡사한 것을 볼 수 있음
  
-<img src="./Image/일반 모델의 마지막 학습 결과.png">
+<img src="./Image/일반 모델의 마지막 학습 결과.png" width="500px">
  
 <마지막에서 학습된 결과 이미지>
 -	Residual Connections레이어 추가한 모델의 결과 이미지는 Fig6의 Conv2d레이어 만 있는 모델보다 생성된 사진이 단조로운 것을 볼 수 있음
  
-<img src="./Image/Residual Connections레이어 모델의 마지막 결과.png">
+<img src="./Image/Residual Connections레이어 모델의 마지막 결과.png" width="500px">
  
 <Residual Connections레이어 추가한 모델의 결과 이미지>
 -	생성된 마지막 이미지를 OpenCV의 얼굴 감지 모듈로 확인 한 결과 실제 이미지와 비슷하게 얼굴이 인식됨
  
- <img src="./Image/OpenCV 얼굴인식모듈을 활용하여 시각화.png">
+ <img src="./Image/OpenCV 얼굴인식모듈을 활용하여 시각화.png" width="500px">
  
 <생성된 이미지의 얼굴이 잘 나왔는지 OpenCV 얼굴 감지 모듈로 확인>
 -	직접 그린 스케치 이미지 모델에 넣고 생성한 결과 자연스럽지는 않지만 준수한 초상화 이미지를 생성함
 
-<img src="./Image/직접 그린 스케치 이미지 Generator로 이미지 생성.png">
+<img src="./Image/직접 그린 스케치 이미지 Generator로 이미지 생성.png" width="500px">
 
 <직접 그린 스케치 이미지를 모델에 넣고 이미지를 생성하여 확인>
 
